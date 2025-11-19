@@ -30,6 +30,10 @@
   width: auto;
   display: block;
 
+  @media (max-width: $bp-lg) {
+    height: 32px;
+  }
+
   @media (max-width: $bp-md) {
     height: 32px;
   }
