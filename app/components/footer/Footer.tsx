@@ -71,7 +71,7 @@ export default function Footer() {
                   aria-hidden="true"
                 />
                 <span>
-                  WTC Matahari Serpong blok G112, Serpong Utara, Tangerang Selatan, Indonesia
+                  MALL WTC MATAHARI blok G112 Jl. Raya Serpong No.39, Pd. Jagung, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15326
                 </span>
               </li>
               <li className={styles.contactItem}>
