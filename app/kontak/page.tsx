@@ -1,5 +1,5 @@
-const Contact = () => {
-  return (<h1>test</h1>);
-}
+import ContactSection from "../components/contact/ContactSection";
 
-export default Contact;
+export default function KontakPage() {
+  return <ContactSection />;
+}
