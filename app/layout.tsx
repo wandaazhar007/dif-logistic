@@ -26,8 +26,7 @@ export const metadata: Metadata = {
         height: 256,
         alt: "PT DIF Trans Logistik office and logo",
       },
-    ],
-    type: "website",
+    ]
   },
   twitter: {
     card: "summary_large_image",
