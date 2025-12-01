@@ -14,7 +14,7 @@ const TEAM: TeamMember[] = [
     name: "Adit",
     role: "Chief Executive Officer",
     photo: "/images/adit.png",
-    bio: "Memimpin arah strategis PT DIF Logistics, memastikan setiap keputusan bisnis berfokus pada keandalan layanan dan kepuasan pelanggan jangka panjang.",
+    bio: "Memimpin arah strategis PT DIF Trans Logistik, memastikan setiap keputusan bisnis berfokus pada keandalan layanan dan kepuasan pelanggan jangka panjang.",
   },
   {
     name: "Zakia Rosela",
@@ -41,7 +41,7 @@ export default function AboutTeamSection() {
           </h2>
           <p className={styles.subtitle}>
             Di balik setiap pengiriman yang sukses, ada tim yang terstruktur
-            dengan baik. Manajemen PT DIF Logistics terdiri dari pemimpin yang
+            dengan baik. Manajemen PT DIF Trans Logistik terdiri dari pemimpin yang
             berpengalaman dan terbiasa menangani kebutuhan logistik skala kecil
             hingga proyek korporat berskala besar.
           </p>
