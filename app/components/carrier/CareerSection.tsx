@@ -122,7 +122,7 @@ export default function CareerSection() {
         <div className={styles.inner}>
           {/* LEFT BOX – COPYWRITING + 4 PHOTO CARDS */}
           <div className={styles.copyCol}>
-            <p className={styles.overline}>Karir di PT DIF Logistics</p>
+            <p className={styles.overline}>Karir di PT DIF Trans Logistik</p>
 
             <h1 id="career-heading" className={styles.title}>
               Bangun Karir Bersama Tim Logistik Terpercaya.
@@ -139,7 +139,7 @@ export default function CareerSection() {
               <div className={styles.photoCard}>
                 <Image
                   src="/images/career1.jpg"
-                  alt="Karir DIF Logistics"
+                  alt="Karir DIF Trans Logistik"
                   fill
                   className={styles.photo}
                 />
@@ -147,7 +147,7 @@ export default function CareerSection() {
               <div className={styles.photoCard}>
                 <Image
                   src="/images/career2.jpg"
-                  alt="Karir DIF Logistics"
+                  alt="Karir DIF Trans Logistik"
                   fill
                   className={styles.photo}
                 />
@@ -155,7 +155,7 @@ export default function CareerSection() {
               <div className={styles.photoCard}>
                 <Image
                   src="/images/career3.jpg"
-                  alt="Karir DIF Logistics"
+                  alt="Karir DIF Trans Logistik"
                   fill
                   className={styles.photo}
                 />
@@ -163,7 +163,7 @@ export default function CareerSection() {
               <div className={styles.photoCard}>
                 <Image
                   src="/images/career4.jpg"
-                  alt="Karir DIF Logistics"
+                  alt="Karir DIF Trans Logistik"
                   fill
                   className={styles.photo}
                 />
@@ -332,8 +332,8 @@ export default function CareerSection() {
                 {status !== "idle" && statusMessage && (
                   <p
                     className={`${styles.statusMessage} ${status === "success"
-                        ? styles.statusSuccess
-                        : styles.statusError
+                      ? styles.statusSuccess
+                      : styles.statusError
                       }`}
                   >
                     {statusMessage}
