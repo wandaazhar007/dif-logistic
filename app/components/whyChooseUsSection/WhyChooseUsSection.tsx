@@ -52,7 +52,7 @@ export default function WhyChooseUsSection() {
           <div className={styles.imageCol}>
             <div className={styles.imageWrapper}>
               <Image
-                src="/images/kantor-dif-logistics.jpg"
+                src="/images/hero-logistics.png"
                 alt="Kantor PT DIF Logistics"
                 fill
                 sizes="(min-width: 992px) 480px, 100vw"
