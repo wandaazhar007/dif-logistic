@@ -17,7 +17,7 @@ export default function CtaTwoSection() {
             </div>
 
             <h2 id="cta-two-heading" className={styles.title}>
-              Siap membangun jaringan distribusi <p>yang lebih kuat?</p>
+              Siap membangun jaringan distribusi yang lebih kuat?
             </h2>
             <p className={styles.text}>
               Diskusikan kebutuhan logistik Anda bersama tim PT DIF Trans Logistik.
