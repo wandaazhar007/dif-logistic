@@ -2,9 +2,9 @@ import { Metadata } from "next";
 import styles from "./DomesticAirFreightPage.module.scss";
 
 export const metadata: Metadata = {
-  title: "Domestic Air Freight | PT DIF Logistics",
+  title: "Domestic Air Freight | PT DIF Trans Logistik",
   description:
-    "Layanan Domestic Air Freight PT DIF Logistics untuk pengiriman cepat dan terukur di seluruh Indonesia melalui jalur udara.",
+    "Layanan Domestic Air Freight PT DIF Trans Logistik untuk pengiriman cepat dan terukur di seluruh Indonesia melalui jalur udara.",
 };
 
 export default function DomesticAirFreightPage() {
@@ -35,7 +35,7 @@ export default function DomesticAirFreightPage() {
             </h1>
 
             <p className={styles.lead}>
-              Domestic Air Freight PT DIF Logistics hadir untuk menjawab kebutuhan
+              Domestic Air Freight PT DIF Trans Logistik hadir untuk menjawab kebutuhan
               pengiriman yang sensitif terhadap waktu. Dengan jaringan bandara
               domestik dan koordinasi operasional yang rapi, kami membantu bisnis
               menjaga kelancaran distribusi dengan lead time yang kompetitif.
@@ -128,7 +128,7 @@ export default function DomesticAirFreightPage() {
                 pengiriman berjalan sesuai komitmen waktu.
               </p>
               <p>
-                PT DIF Logistics membantu merencanakan rute, mengatur jadwal,
+                PT DIF Trans Logistik membantu merencanakan rute, mengatur jadwal,
                 mengelola konsolidasi barang, dan memberikan update status
                 berkala agar Anda selalu mengetahui posisi pengiriman.
               </p>
@@ -194,7 +194,7 @@ export default function DomesticAirFreightPage() {
         {/* BENEFITS / VALUE SECTION */}
         <section className={styles.valueSection}>
           <div className={styles.valueHeader}>
-            <h2>Nilai Tambah Layanan Udara PT DIF Logistics</h2>
+            <h2>Nilai Tambah Layanan Udara PT DIF Trans Logistik</h2>
             <p>
               Kami tidak hanya mengandalkan kecepatan, tetapi juga ketepatan
               informasi dan transparansi dalam setiap pengiriman.
