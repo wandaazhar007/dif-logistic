@@ -19,6 +19,15 @@ export const metadata: Metadata = {
     description:
       "Solusi logistik terpadu: Domestic Sea Freight, Domestic Air Freight, Inland Transport, dan Contract Logistics.",
     url: "https://www.diftranslog.com",
+    images: [
+      {
+        url: "/images/logo-icon-dif.png", // 🔹 your new image
+        width: 256,
+        height: 256,
+        alt: "PT DIF Trans Logistik office and logo",
+      },
+    ],
+    type: "website",
   },
   twitter: {
     card: "summary_large_image",
