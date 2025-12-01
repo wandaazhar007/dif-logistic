@@ -15,20 +15,20 @@ export default function Footer() {
               <div className={styles.logoCircle}>
                 <Image
                   src="/images/logo-dif-logistics.png"
-                  alt="Logo DIF Logistics"
+                  alt="Logo DIF Trans Logistik"
                   width={56}
                   height={56}
                   className={styles.logoImage}
                 />
               </div>
               <div>
-                <p className={styles.brandName}>DIF Logistics</p>
+                <p className={styles.brandName}>DIF Trans Logistik</p>
                 <p className={styles.tagline}>Fast Delivery with Excellence</p>
               </div>
             </div>
 
             <p className={styles.text}>
-              PT DIF Logistics menyediakan solusi logistik terintegrasi yang
+              PT DIF Trans Logistik menyediakan solusi logistik terintegrasi yang
               aman, cepat, dan terpercaya untuk berbagai kebutuhan pengiriman
               bisnis di seluruh Indonesia.
             </p>
@@ -102,7 +102,7 @@ export default function Footer() {
         {/* BOTTOM BAR */}
         <div className={styles.bottomBar}>
           <span className={styles.copy}>
-            © {year} DIF Logistics. All rights reserved.
+            © {year} DIF Trans Logistik. All rights reserved.
           </span>
           <span className={styles.dev}>
             Build with ❤️ by <strong><Link href="https://wandaazhar.vercel.app/" target="_blank">Wanda Azhar</Link></strong> in Twin Falls, ID. USA
