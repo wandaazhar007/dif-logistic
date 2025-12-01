@@ -16,7 +16,7 @@ export default function CoverageOverviewSection() {
               Satu mitra logistik, jangkauan nasional dan dukungan global.
             </h1>
             <p className={styles.text}>
-              PT DIF Logistics melayani pengiriman ke berbagai kota strategis di
+              PT DIF Trans Logistik melayani pengiriman ke berbagai kota strategis di
               seluruh Indonesia, dari pusat-pusat industri hingga area yang
               sulit dijangkau. Dengan kombinasi transportasi darat, laut, dan
               udara, kami memastikan barang Anda tiba dengan aman dan tepat
